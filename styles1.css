@@ -1,6 +1,6 @@
 body{
     font-family:'Rubik Doodle Shadow',Arial, sans-serif;
-    background-color:#f2cc9a;
+    background-color: #1d1e1f;
     margin:0;
     padding:0;
 }
@@ -22,7 +22,7 @@ nav ul li{
 }
 
 header nav ul li a {
-    color: pink;
+    color:palevioletred;
     font-size: 2.5vw;
  }
 
@@ -70,7 +70,7 @@ main{
     text-align: center;
     box-sizing: border-box;
     background-color: #333;
-    color:pink;
+    color:palevioletred;
 }
 
 .movie li {
